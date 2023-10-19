@@ -2,4 +2,4 @@
 Aplikacja z poprzednich laboratoriów usprawniona o elementy: 
 - **MVVM**
 - **DataBinding**
-- **DependencyInjection**
+- **Dependency Injection**
